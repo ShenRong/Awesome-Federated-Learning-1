@@ -1,5 +1,11 @@
 ## A Federated Learning research library - FedML: https://fedml.ai
 
+## reading
+| Title                                                                    | Team/Authors              | Venue and Year     | Targeting Problem     | Method                |
+| An Efficient Framework for Clustered Federated Learning | UCB | NeurIPS 2020        |    heterogeneous data (non-I.I.D) |   |
+
+[Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/pdf/2002.10619.pdf)
+
 # Awesome-Federated-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of federated learning publications, re-organized from Arxiv (mostly).
